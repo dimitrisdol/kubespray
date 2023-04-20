@@ -1,3 +1,4 @@
 venv
 vms/.vagrant
 .kube/
+inventory/mycluster/credentials
